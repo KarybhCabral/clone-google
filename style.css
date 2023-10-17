@@ -32,16 +32,15 @@ a{
     /* Cambia el curso a un pointer */
     cursor:pointer;
 }
-
  .nav-right-section a{
     margin-right: 25px;
     color:#000000DE;
 }
 .nav-right-section .menu-icon{
-    backgroud-imagen: url(https://img.icons8.com/ios-glyphs/90/000000/circled-menu.png);
+    background-image: url(https://img.icons8.com/ios-glyphs/90/000000/circled-menu.png);
     width: 28px;
-    heinght: 28px;
-    backgroud-size: contain;
+    height: 28px;
+    background-size: contain;
 }
 .nav-right-section img{
         margin-left: 28px;
@@ -114,7 +113,7 @@ a{
     .main-buttons button{
         border: none;
         height: 36px;
-        backdrop-color: #f8f9fa;
+        background-color: #f8f9fa;
         font-size: 14px;
         color: #3c4043;
         border-radius: 1px solid #f8f9fa;
